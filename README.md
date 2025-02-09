@@ -1,3 +1,11 @@
+This repository is an archive of my contribution as a Research Assistant for the STA130: An Introduction to Statistical Reasoning and Data Science course at the University of Toronto.
+
+During my position I:
+- Collaborated with team of 6 people to redesign an introductory statistics course.
+- Integrated Generative AI into lecture and homework materials for 500+ students. Specifically working on the WEEK 5 material: One sample hypothesis testing.
+- Designed ChatGPT prompts that would effectively promt the student into discovering more about hypothesis testing.
+
+
 # Stat130-Chat130: Introduction to Statistical Reasoning and Data Science
 
 |What | When and Where           | there is no Why |
